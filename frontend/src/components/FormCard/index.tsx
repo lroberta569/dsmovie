@@ -2,7 +2,6 @@ import axios, { AxiosRequestConfig } from "axios";
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Movie } from "types/movie";
-import { textChangeRangeIsUnchanged } from "typescript";
 import { BASE_URL } from "utils/requests";
 import { validateEmail } from "utils/validate";
 import "./style.css"
