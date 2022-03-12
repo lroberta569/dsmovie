@@ -11,4 +11,4 @@ Semana Spring React - Trilha Profissionalizante - DevSuperior
 - PostgreSQL
 
 ## 📈 Status do projeto
-🟡 Em andamento
+🟢 Em andamento
